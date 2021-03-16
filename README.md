@@ -2,6 +2,20 @@
 
 Welcome to the lucius hub. 
 
-https://discord.gg/UfudNrW7aE
+Supported games : 
 
+Ragdoll Engine
+Big Paintball
+
+---
+
+Exploits : 
+
+Synapse X
+Sentinel
+Sirhurt
+KRNL
+
+
+https://discord.gg/NYHBVKWAyU
 
