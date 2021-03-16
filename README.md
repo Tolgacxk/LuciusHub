@@ -14,7 +14,7 @@ Exploits :
 Synapse X -
 Sentinel -
 Sirhurt -
-KRNL -
+KRNL 
 
 
 https://discord.gg/NYHBVKWAyU
