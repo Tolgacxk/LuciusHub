@@ -4,17 +4,17 @@ Welcome to the lucius hub.
 
 Supported games : 
 
-Ragdoll Engine
+Ragdoll Engine - 
 Big Paintball
 
 ---
 
 Exploits : 
 
-Synapse X
-Sentinel
-Sirhurt
-KRNL
+Synapse X -
+Sentinel -
+Sirhurt -
+KRNL -
 
 
 https://discord.gg/NYHBVKWAyU
