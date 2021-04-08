@@ -1,4 +1,4 @@
-# LuciusHub
+# (DISCONTINUED) LuciusHub
 
 Welcome to the lucius hub. 
 
@@ -17,5 +17,4 @@ Sirhurt -
 KRNL 
 
 
-https://discord.gg/NYHBVKWAyU
-
+https://discord.gg/zxCR86q5XR
